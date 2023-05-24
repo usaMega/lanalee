@@ -1,0 +1,29 @@
+.bg-custom {
+    background-color: #54e0ad;   
+    color: #0c6033;
+    font-family:courier;
+    
+}
+
+.text-brown {
+    color: rgb(243, 145, 81);
+}
+#about {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-top: 1em;
+    padding-bottom: 7em;
+}
+
+#persona img {
+    height: 120px;
+    
+}
+
+.text-custom {
+    background-color: #07e38b;
+    color: #006540;
+    
+}
+#personal img {
+    height: 40px;
+}
